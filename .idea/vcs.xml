@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/com/epam/training/kanat_asanbekov/aggregation-exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/com/epam/training/kanat_asanbekov/electronic-watch-exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/com/epam/training/kanat_asanbekov/find_maximum-exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/com/epam/training/kanat_asanbekov/function-task01-exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/com/epam/training/kanat_asanbekov/function-task02-exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/com/epam/training/kanat_asanbekov/inheritance-exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/com/epam/training/kanat_asanbekov/maximum_distance-exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/com/epam/training/kanat_asanbekov/meet-a-stranger-ex" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/com/epam/training/kanat_asanbekov/meet-autocode-exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/com/epam/training/kanat_asanbekov/new-post-office-exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/com/epam/training/kanat_asanbekov/optional-max-exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/com/epam/training/kanat_asanbekov/sumfibonaccinumbers-exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/main/java/com/epam/training/kanat_asanbekov/transform_matrix-exercise" vcs="Git" />
+  </component>
+</project>
